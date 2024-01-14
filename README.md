@@ -8,3 +8,5 @@ Related video: https://www.youtube.com/watch?v=GST8we5uABo
 The related config files can be found via VsCode search:
 * settings.json - Preferences: Open User Settings (JSON)
 * keybindings.json - Preferences: Open Keyboard Shortcuts (JSON)
+
+Alternatively, a VsCode profile can be imported (`custom.code-profile` file).
